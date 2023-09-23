@@ -8,37 +8,26 @@ description: "Pose determination using video"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Kapil Dev Nayar
   pic: 1
-  position: Lead Designer
+  position: Co-Founder
   social:
-    - title: twitter
+    - title: Linkedin : https://www.linkedin.com/in/kapil-dev-nayar/
       url: #
-    - title: facebook
+    - title: Twitter : https://twitter.com/dr_nayar_98
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Shaurjya Mandal
   pic: 2
-  position: Lead Marketer
+  position: Co-Founder
   social:
-    - title: twitter
+    - title: linkedin : https://www.linkedin.com/in/shaurjya-mandal-524ab6193/
       url: #
     - title: facebook
       url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: 
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
